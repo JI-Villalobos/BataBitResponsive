@@ -253,7 +253,8 @@ main{
 }
 
 .table--date p{
-    font-size: 12px;
+    font-size: 1.2rem;
+    font-weight: 300;
     color: var(--warm-black);
     line-height: 1.5rem;
 }
